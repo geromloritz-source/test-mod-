@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "entries": [
+    "supergems:add_gems_simple_dungeon",
+    "supergems:add_gems_ancient_city",
+    "supergems:add_gems_ancient_ice_box",
+    "supergems:add_gems_trial_chamber",
+    "supergems:add_gems_ominous_vault",
+    "supergems:add_gems_ender_dragon",
+    "supergems:add_gems_wither",
+    "supergems:add_gems_warden",
+    "supergems:add_gems_elder_guardian"
+  ]
+}

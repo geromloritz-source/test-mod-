@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "supergems"
+version = "1.0.0"
+displayName = "Super Gems"
+description = '''
+Sieben besondere Diamanten in sieben Farben. Wer alle besitzt, kann sich in eine
+mächtige Super-Form verwandeln - inspiriert von den Chaos Emeralds und Super Sonic.
+'''
+
+[[dependencies.supergems]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.supergems]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

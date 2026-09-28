@@ -1,0 +1,18 @@
+{
+  "itemGroup.supergems": "Super Gems",
+  "item.supergems.red_diamond": "Red Diamond",
+  "item.supergems.blue_diamond": "Blue Diamond",
+  "item.supergems.green_diamond": "Green Diamond",
+  "item.supergems.yellow_diamond": "Yellow Diamond",
+  "item.supergems.purple_diamond": "Purple Diamond",
+  "item.supergems.cyan_diamond": "Cyan Diamond",
+  "item.supergems.white_diamond": "White Diamond",
+  "tooltip.supergems.gem": "Collect all 7 diamonds to awaken the Super Form.",
+  "key.supergems.transform": "Toggle Super Form",
+  "key.categories.supergems": "Super Gems",
+  "hud.supergems.super_form": "Super Form: %s s",
+  "hud.supergems.recharging": "Diamonds recharging: %s s",
+  "message.supergems.need_all": "You are missing diamonds! You need all 7 colors at once.",
+  "message.supergems.cooldown": "The diamonds are still recharging (%s s).",
+  "message.supergems.lost_gems": "The Super Form ends because you are missing diamonds!"
+}

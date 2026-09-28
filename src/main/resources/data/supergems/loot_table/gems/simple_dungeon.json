@@ -1,0 +1,44 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "supergems:red_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:blue_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:green_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:yellow_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:purple_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:cyan_diamond"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "supergems:white_diamond"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.12
+        }
+      ]
+    }
+  ]
+}

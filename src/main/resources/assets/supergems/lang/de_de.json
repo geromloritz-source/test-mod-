@@ -1,0 +1,18 @@
+{
+  "itemGroup.supergems": "Super Gems",
+  "item.supergems.red_diamond": "Roter Diamant",
+  "item.supergems.blue_diamond": "Blauer Diamant",
+  "item.supergems.green_diamond": "Grüner Diamant",
+  "item.supergems.yellow_diamond": "Gelber Diamant",
+  "item.supergems.purple_diamond": "Violetter Diamant",
+  "item.supergems.cyan_diamond": "Türkiser Diamant",
+  "item.supergems.white_diamond": "Weißer Diamant",
+  "tooltip.supergems.gem": "Sammle alle 7 Diamanten, um die Super-Form zu erwecken.",
+  "key.supergems.transform": "Super-Form ein/aus",
+  "key.categories.supergems": "Super Gems",
+  "hud.supergems.super_form": "Super-Form: %s s",
+  "hud.supergems.recharging": "Diamanten laden auf: %s s",
+  "message.supergems.need_all": "Dir fehlen Diamanten! Du brauchst alle 7 Farben gleichzeitig.",
+  "message.supergems.cooldown": "Die Diamanten laden noch auf (%s s).",
+  "message.supergems.lost_gems": "Die Super-Form endet, weil dir Diamanten fehlen!"
+}
